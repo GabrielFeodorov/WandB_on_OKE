@@ -52,7 +52,7 @@ This template deploys the following by default:
 
 Simply click the Deploy to OCI button to create an ORM stack, then walk through the menu driven deployment. Once the stack is created, use the menu to Plan and Apply the template.
 
-[![Deploy to Oracle Cloud](https://oci-resourcemanager-plugin.plugins.oci.oraclecloud.com/latest/deploy-to-oracle-cloud.svg)](https://console.us-ashburn-1.oraclecloud.com/resourcemanager/stacks/create?region=home&zipUrl=https://github.com/GabrielFeodorov/wandb_OCI/archive/refs/heads/main.zip)
+[![Deploy to Oracle Cloud](https://oci-resourcemanager-plugin.plugins.oci.oraclecloud.com/latest/deploy-to-oracle-cloud.svg)](https://console.us-ashburn-1.oraclecloud.com/resourcemanager/stacks/create?region=home&zipUrl=https://github.com/GabrielFeodorov/WandB_on_OKE/archive/refs/heads/main.zip)
 
 ## OKE post-deployment
 
